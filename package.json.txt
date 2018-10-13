@@ -1,3 +1,4 @@
+web: node index.js
 {
 “name”: “Global Bot”,
 “version”: “1.0.0”,
