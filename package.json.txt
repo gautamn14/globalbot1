@@ -1,0 +1,8 @@
+{
+“name”: “Global Bot”,
+“version”: “1.0.0”,
+“description”: “Official Discord Bot of GauTam#2275”,
+“main”: “bot.js”,
+“author”: “GauTam#2275”,
+“dependencies”: {}
+}
